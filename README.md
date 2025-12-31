@@ -227,9 +227,9 @@ try {
 ## Related Projects
 
 Check out my other integration solutions:
-- [Amazon Chime Integration](../amazon-chime-salesforce) - AWS serverless integration
-- [AI-Powered Case Summary](../ai-case-summary) - Einstein AI API integration
-- [Real Estate Property Portal](../property-portal) - Maps API integration
+- [Amazon Chime Integration](https://github.com/Mutahar1/amazon-chime-salesforce) - AWS serverless integration
+- [AI-Powered Case Summary](https://github.com/Mutahar1/agentforce-ai-case-summary) - Einstein AI API integration
+- [Real Estate Property Portal](https://github.com/Mutahar1/property-experience-portal) - Maps API integration
 
 ---
 
